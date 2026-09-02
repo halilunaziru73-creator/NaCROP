@@ -1,0 +1,13 @@
+METHOD AVAILABILITY BENCHMARK
+========================================
+FAO-56 Penman-Monteith (independent calc) .. PASS
+ASCE Standardized Penman-Monteith ......... PASS
+Original/Modified Penman (reference table) .. PASS
+Priestley-Taylor .......................... PASS
+Makkink ................................... PASS
+Turc ...................................... PASS
+Hargreaves-Samani ......................... PASS
+Thornthwaite .............................. INSUFFICIENT DATA
+Blaney-Criddle ............................ PASS
+Dalton-Type Mass Transfer ................. PASS
+FAO-56 Penman-Monteith (reference Cropwat table) .. PASS
