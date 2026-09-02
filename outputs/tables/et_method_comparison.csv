@@ -1,0 +1,12 @@
+Method,Source,Mean_ET0_mm_day,Mean_ETc_mm_day,Seasonal_ETc_mm,RMSE,MAE,Bias,MAPE_pct,R2,NSE
+Blaney-Criddle,computed (replicates field dataset formula),5.424,6.508,403.52,4.0758,3.9708,3.9708,232.72,0.1194,-16.7174
+Original/Modified Penman (reference table),reference table (verbatim),2.115,2.538,157.33,0.0003,0.0002,0.0,0.01,1.0,1.0
+FAO-56 Penman-Monteith (reference Cropwat table),reference table (verbatim),2.772,3.326,206.22,1.4983,1.1758,0.7885,78.08,0.0,-1.3943
+Hargreaves-Samani,computed,4.687,5.624,348.7,3.2129,3.0866,3.0866,176.36,0.2264,-10.009
+Priestley-Taylor,computed,3.434,4.121,255.52,2.4139,1.7963,1.5838,113.98,0.0014,-5.2147
+Makkink,computed,2.159,2.591,160.65,1.3809,1.1477,0.0534,63.96,0.0014,-1.0337
+Turc,computed,3.594,4.313,267.39,2.4447,1.9059,1.7751,122.61,0.0022,-5.3741
+Dalton-Type Mass Transfer,computed,0.272,0.326,20.24,2.3993,2.2111,-2.2111,85.4,0.1478,-5.1396
+FAO-56 Penman-Monteith (independent calc),computed,2.988,3.585,222.29,1.6223,1.3128,1.0478,82.6,0.0133,-1.8068
+ASCE Standardized Penman-Monteith,computed,2.988,3.585,222.29,1.6223,1.3128,1.0478,82.6,0.0133,-1.8068
+Thornthwaite,"Only a 2-month window is in the case-study data; the supplementary weather archive is a single non-contiguous 365-day extract, not tied to the 2012 season.",,,,,,,,,
