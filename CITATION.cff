@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+type: software
+title: 'NaCROP: A Modular Evapotranspiration, Soil-Water Balance, Irrigation Scheduling,
+  and Crop-Growth Simulation Pipeline for Five Crops Grown Around Zaria, Nigeria'
+authors:
+- family-names: Halilu
+  given-names: Naziru
+  orcid: https://orcid.org/0009-0006-2324-9599
+repository-code: https://github.com/halilunaziru73-creator/NaCROP
+license: MIT
+date-released: '2026-08-27'
+keywords:
+- evapotranspiration
+- irrigation scheduling
+- soil water balance
+- crop growth simulation
+- precision agriculture
+- decision support system
