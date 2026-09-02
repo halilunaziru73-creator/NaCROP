@@ -1,0 +1,19 @@
+{
+  "crop": "Maize (Corn)",
+  "season_length_days": 122,
+  "params": {
+    "CC0_pct": 3.75,
+    "CCx_pct": 95.0,
+    "CGC_per_day": 0.056,
+    "CDC_per_day": 0.125,
+    "KcTr_x": 1.224,
+    "WP_star_g_m2": 33.7,
+    "HIo_pct": 48.0,
+    "base_temperature_c": 10.0
+  },
+  "final_biomass_kg_ha": 19164.2,
+  "reference_hi_pct": 48.0,
+  "actual_hi_pct": 48.0,
+  "yield_kg_ha": 9198.8,
+  "yield_t_ha": 9.199
+}
