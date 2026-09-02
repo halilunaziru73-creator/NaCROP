@@ -1,0 +1,35 @@
+==============================================================
+NACROP — NIGERIA CROP ET AND IRRIGATION DSS
+==============================================================
+
+Location:      Samaru, Zaria, Kaduna State, Nigeria (Lat 11.11 N, 686.0 m a.s.l.)
+Crop:          Maize
+Season:        2012-07-01 to 2012-08-31
+
+SELECTED ET METHOD:      Makkink
+Mean ET0 (season):       2.16 mm/day
+Mean ETc (season):       2.59 mm/day
+Seasonal ETc (full simulated year): 160.65 mm
+
+WATER DEMAND  [Predicted from weather data: entered temperature/humidity + trained climatology]
+EFFECTIVE RAINFALL (season):     146.20 mm
+NET IRRIGATION REQUIREMENT:      0 mm
+GROSS IRRIGATION REQUIREMENT:    0.00 mm
+
+NUMBER OF IRRIGATION EVENTS:     0
+
+WATER BUDGET  [Predicted from weather data (rainfall/ETc) + irrigation-system assumptions below]
+TOTAL WATER SUPPLIED (I+P):      592.00 mm
+TOTAL WATER USED (ETc):          160.60 mm
+TOTAL WATER LOST (RO+DP+AppLoss):445.90 mm
+SOIL STORAGE CHANGE:             -14.50 mm
+WATER BALANCE RESIDUAL:          0.00 mm  (should be ~0)
+
+SYSTEM EFFICIENCY  [Standard irrigation-engineering assumptions for the configured system, NOT measured for this specific farm; replace with your system's real measured values if known]
+CONVEYANCE EFFICIENCY (Ec):      85.00 %
+DISTRIBUTION EFFICIENCY (Ed):    55.00 %
+APPLICATION EFFICIENCY (Ea):     57.00 %
+OVERALL SYSTEM EFFICIENCY (Ep):  26.65 %
+
+ET MODEL:                Makkink
+==============================================================
