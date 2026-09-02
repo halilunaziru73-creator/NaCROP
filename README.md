@@ -52,9 +52,9 @@ nacrop.spec              PyInstaller spec for building a standalone desktop app
 
 A packaged Windows desktop app is available, no Python installation required:
 
-**[⬇ Download NaCROP.exe](https://github.com/halilunaziru73-creator/NaCROP/releases/tag/v1.1.0)**
+**[⬇ Download NaCROP.exe](https://github.com/halilunaziru73-creator/NaCROP/releases/download/v1.1.0/NaCROP.exe)**
 
-(Windows only. Run the .exe directly.)
+(~297 MB, Windows only. Run the .exe directly.)
 
 ## How to Run It
 
