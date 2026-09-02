@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NaCROP — Nigeria Irrigation DSS
+Comment=Crop evapotranspiration and irrigation decision support system for Zaria, Nigeria
+Exec=/opt/nacrop-dss/NaCROP
+Icon=/opt/nacrop-dss/assets/icons/app_icon_256.png
+Terminal=false
+Categories=Science;Education;
