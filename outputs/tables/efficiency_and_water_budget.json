@@ -1,0 +1,36 @@
+{
+  "efficiency": {
+    "Ec": 85.0,
+    "Ed": 55.0,
+    "Ea": 57.0,
+    "Ep": 26.65
+  },
+  "losses": {
+    "conveyance_loss": 0.0,
+    "distribution_loss": 0.0,
+    "application_loss": 0.0,
+    "total_loss": 0.0,
+    "conveyance_loss_pct": null,
+    "distribution_loss_pct": null,
+    "application_loss_pct": null,
+    "total_loss_pct": null,
+    "useful_water": 0,
+    "useful_water_pct": null
+  },
+  "water_budget": {
+    "rainfall_mm": 592.0,
+    "effective_rainfall_mm": 146.2,
+    "gross_irrigation_mm": 0.0,
+    "net_irrigation_mm": 0,
+    "ETc_used_mm": 160.6,
+    "runoff_mm": 0.0,
+    "deep_percolation_mm": 445.9,
+    "application_loss_mm": 0.0,
+    "root_zone_growth_gain_mm": 0.0,
+    "storage_change_mm": -14.5,
+    "total_supplied_mm": 592.0,
+    "total_used_mm": 160.6,
+    "total_lost_mm": 445.9,
+    "balance_residual_mm": 0.0
+  }
+}
