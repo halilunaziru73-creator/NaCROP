@@ -1,0 +1,16 @@
+{
+  "n_events": 1,
+  "events": [
+    {
+      "day": 29,
+      "net_irrigation_mm": 92.95,
+      "gross_irrigation_mm": 163.07
+    }
+  ],
+  "net_seasonal_irrigation_mm": 93.0,
+  "gross_seasonal_irrigation_mm": 163.1,
+  "avg_interval_days": null,
+  "next_irrigation_day_after_series": 29,
+  "field_application_efficiency_used": 0.57,
+  "irrigation_method": "Furrow irrigation"
+}
