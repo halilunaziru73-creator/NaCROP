@@ -1,0 +1,180 @@
+{
+  "site": {
+    "town": "Samaru",
+    "state": "Zaria, Kaduna State, Nigeria",
+    "latitude_deg": 11.11,
+    "elevation_m": 686.0,
+    "season_start": "2012-07-01",
+    "season_end": "2012-08-31",
+    "crop": "Maize"
+  },
+  "soil": {
+    "field_capacity_pct": 28.0,
+    "pwp_pct": 14.0,
+    "root_zone_depth_m": 1.0,
+    "root_zone_depth_init_m": 0.15,
+    "mad": 0.65,
+    "mad_initial": 0.25,
+    "soil_texture": "Loam (assumed)"
+  },
+  "area_ha": null,
+  "et": {
+    "method_used": "Makkink",
+    "mean_et0": 2.159,
+    "mean_etc": 2.591,
+    "seasonal_etc": 160.65,
+    "all_methods": [
+      {
+        "method": "Blaney-Criddle",
+        "mean_et0": 5.424,
+        "mean_etc": 6.508,
+        "seasonal_etc": 403.52,
+        "RMSE": 4.0758,
+        "MAE": 3.9708,
+        "R2": 0.1194
+      },
+      {
+        "method": "Original/Modified Penman (reference table)",
+        "mean_et0": 2.115,
+        "mean_etc": 2.538,
+        "seasonal_etc": 157.33,
+        "RMSE": 0.0003,
+        "MAE": 0.0002,
+        "R2": 1.0
+      },
+      {
+        "method": "FAO-56 Penman-Monteith (reference Cropwat table)",
+        "mean_et0": 2.772,
+        "mean_etc": 3.326,
+        "seasonal_etc": 206.22,
+        "RMSE": 1.4983,
+        "MAE": 1.1758,
+        "R2": 0.0
+      },
+      {
+        "method": "Hargreaves-Samani",
+        "mean_et0": 4.687,
+        "mean_etc": 5.624,
+        "seasonal_etc": 348.7,
+        "RMSE": 3.2129,
+        "MAE": 3.0866,
+        "R2": 0.2264
+      },
+      {
+        "method": "Priestley-Taylor",
+        "mean_et0": 3.434,
+        "mean_etc": 4.121,
+        "seasonal_etc": 255.52,
+        "RMSE": 2.4139,
+        "MAE": 1.7963,
+        "R2": 0.0014
+      },
+      {
+        "method": "Makkink",
+        "mean_et0": 2.159,
+        "mean_etc": 2.591,
+        "seasonal_etc": 160.65,
+        "RMSE": 1.3809,
+        "MAE": 1.1477,
+        "R2": 0.0014
+      },
+      {
+        "method": "Turc",
+        "mean_et0": 3.594,
+        "mean_etc": 4.313,
+        "seasonal_etc": 267.39,
+        "RMSE": 2.4447,
+        "MAE": 1.9059,
+        "R2": 0.0022
+      },
+      {
+        "method": "Dalton-Type Mass Transfer",
+        "mean_et0": 0.272,
+        "mean_etc": 0.326,
+        "seasonal_etc": 20.24,
+        "RMSE": 2.3993,
+        "MAE": 2.2111,
+        "R2": 0.1478
+      },
+      {
+        "method": "FAO-56 Penman-Monteith (independent calc)",
+        "mean_et0": 2.988,
+        "mean_etc": 3.585,
+        "seasonal_etc": 222.29,
+        "RMSE": 1.6223,
+        "MAE": 1.3128,
+        "R2": 0.0133
+      },
+      {
+        "method": "ASCE Standardized Penman-Monteith",
+        "mean_et0": 2.988,
+        "mean_etc": 3.585,
+        "seasonal_etc": 222.29,
+        "RMSE": 1.6223,
+        "MAE": 1.3128,
+        "R2": 0.0133
+      },
+      {
+        "method": "Thornthwaite",
+        "mean_et0": null,
+        "mean_etc": null,
+        "seasonal_etc": null,
+        "RMSE": null,
+        "MAE": null,
+        "R2": null
+      }
+    ]
+  },
+  "soil_water": {
+    "field_capacity_pct": 28.0,
+    "pwp_pct": 14.0,
+    "root_zone_depth_m": 1.0,
+    "MAD": 0.65,
+    "TAW_mm": 140.0,
+    "RAW_mm": 91.0,
+    "soil_texture": "Loam (assumed)"
+  },
+  "water": {
+    "effective_rainfall_mm": 146.2,
+    "net_irrigation_mm": 0,
+    "gross_irrigation_mm": 0.0
+  },
+  "schedule": {
+    "n_events": 0,
+    "events": [],
+    "net_seasonal_irrigation_mm": 0,
+    "gross_seasonal_irrigation_mm": 0.0,
+    "avg_interval_days": null,
+    "next_irrigation_day_after_series": null,
+    "field_application_efficiency_used": 0.57,
+    "irrigation_method": "Furrow irrigation"
+  },
+  "efficiency": {
+    "Ec": 85.0,
+    "Ed": 55.0,
+    "Ea": 57.0,
+    "Ep": 26.65
+  },
+  "water_budget": {
+    "rainfall_mm": 592.0,
+    "effective_rainfall_mm": 146.2,
+    "gross_irrigation_mm": 0.0,
+    "net_irrigation_mm": 0,
+    "ETc_used_mm": 160.6,
+    "runoff_mm": 0.0,
+    "deep_percolation_mm": 445.9,
+    "application_loss_mm": 0.0,
+    "root_zone_growth_gain_mm": 0.0,
+    "storage_change_mm": -14.5,
+    "total_supplied_mm": 592.0,
+    "total_used_mm": 160.6,
+    "total_lost_mm": 445.9,
+    "balance_residual_mm": 0.0
+  },
+  "wue": {
+    "status": "DATA NOT AVAILABLE IN SUPPLIED MATERIALS",
+    "reason": "No maize yield (kg/ha or t/ha) recorded for the Zaria plot in the field dataset."
+  },
+  "best_method": "Makkink",
+  "validation_issues": []
+}
