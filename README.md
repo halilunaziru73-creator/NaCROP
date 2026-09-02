@@ -48,6 +48,14 @@ run_pipeline.py          CLI entry point
 nacrop.spec              PyInstaller spec for building a standalone desktop app
 ```
 
+## Download the Desktop App
+
+A packaged Windows desktop app is available, no Python installation required:
+
+**[⬇ Download NaCROP.exe](https://github.com/halilunaziru73-creator/NaCROP/releases/tag/v1.1.0)**
+
+(Windows only. Run the .exe directly.)
+
 ## How to Run It
 
 ```bash
