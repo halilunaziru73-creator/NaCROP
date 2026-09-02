@@ -1,0 +1,23 @@
+{
+  "status": "OK",
+  "n_records": 10000,
+  "date_range": [
+    "2000-01-01",
+    "2027-05-18"
+  ],
+  "mean_annual_mm": {
+    "rainfall": 581.3,
+    "irrigation": 570.5,
+    "capillary_rise": 19.5,
+    "runoff": 91.0,
+    "deep_percolation": 152.3,
+    "storage_change": 187.1,
+    "etc_direct": 1153.4
+  },
+  "reconstruction_validation": {
+    "formula_matches_dataset_column_pct": 100.0,
+    "mean_absolute_difference_mm": 0.0,
+    "sign_convention": "ETc = I + P + W - RO - DP + dS (dS = release-from-storage-positive), floored at 0.05 mm"
+  },
+  "message": "Direct water-balance method verified against 10000 daily records (28 years, 2000-01-01 to 2027-05-18): formula reconstruction matches the source data column on 100.0% of days."
+}
