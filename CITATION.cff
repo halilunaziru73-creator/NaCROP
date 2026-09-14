@@ -17,3 +17,8 @@ keywords:
 - crop growth simulation
 - precision agriculture
 - decision support system
+
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.22741130
+  description: Archived snapshot on Zenodo
